@@ -20,7 +20,7 @@ and support assortment rationalization decisions.
 - Identifying insights from the dataset
 
 ## Files
-- Retail_Assortment_Rationalization.ipynb - Main analysis notebook
+- Assortment Rationalization – European Grocery Retailer.pdf - Main analysis Document
 - dataset.csv - Dataset used for the analysis
 
 ## Objective
