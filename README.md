@@ -21,7 +21,7 @@ and support assortment rationalization decisions.
 
 ## Files
 - Assortment Rationalization – European Grocery Retailer.pdf - Main analysis Document
-- dataset.csv - Dataset used for the analysis
+- Grocery_Dataset_python_mock_project.csv - Dataset used for the analysis
 
 ## Objective
 To analyze the available retail data and derive insights that can help
